@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manikbhatt18
 - 👀 I’m interested in DSA and Web Devlopment
-- 🌱 I’m currently learning BTECH 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning BTECH(Information Technology)
+- 💞️ I’m looking to collaborate on any good projects which can increase my skills
 - 📫 How to reach me bhattmanik94@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
